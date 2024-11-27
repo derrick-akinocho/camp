@@ -1,0 +1,10 @@
+.stage-list {
+    list-style: none;
+    padding-left: 0;
+    width: 60%;
+}
+
+li {
+    margin-bottom: 20px;
+    cursor: pointer;
+}

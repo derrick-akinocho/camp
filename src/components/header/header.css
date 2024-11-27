@@ -1,0 +1,11 @@
+header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4)), url("../../../public/img/background.jpeg");
+    padding: 150px 50px;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    color: white;
+}

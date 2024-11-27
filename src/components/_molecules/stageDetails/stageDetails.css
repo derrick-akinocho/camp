@@ -1,0 +1,9 @@
+.stage-details {
+    position: sticky;
+    top: 50px;
+    max-height: 420px;
+    width: 50%;
+    padding: 32px;
+    border: 1px solid #eee;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.06);
+}
