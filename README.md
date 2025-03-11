@@ -1,4 +1,4 @@
-# Tour de France Courses
+# Tour de France
 
 Ce projet est une application React.js qui affiche la liste des courses du Tour de France. L'utilisateur peut voir les détails de chaque course, y compris le trajet et d'autres informations pertinentes. Une barre de recherche permet de filtrer les courses facilement.
 
