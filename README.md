@@ -4,7 +4,7 @@ Ce projet est une application React.js qui affiche la liste des courses du Tour 
 
 Démo en ligne
 
-Tu peux voir le projet en action ici : [Démo](camp-ashen.vercel.app)
+Tu peux voir le projet en action ici : [Démo](https://camp-ashen.vercel.app/)
 
 ## Fonctionnalités
 - Affichage de la liste des courses du Tour de France
